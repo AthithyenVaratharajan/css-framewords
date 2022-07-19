@@ -200,6 +200,11 @@ nav button:hover{
   p{
     color: gold;
     text-align: center;
+
+  }
+
+  main > p{
+    padding: 0px 300px 0px 300px;
   }
 
   .btn-link{
